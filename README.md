@@ -11,7 +11,7 @@
 5. Profit!!!<br>
   
 <h1>Windows Instructions</h1>
-
+<p>
 1. Download the zip file<br>
 2. Extract the zip to your desktop<br>
 3. Double click the Meta Scraper exe<br>
