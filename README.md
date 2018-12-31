@@ -4,10 +4,11 @@
 
 <h1>Instructions</h1>
 <p>
-1. Clone the repo with this command - git clone https://github.com/TwoReasons/Meta-Scrape.git and cd into the direcory<br>
-2. Run " python root.py " (without quotes)<br>
-3. Follow the instructions given<br>
-4. Profit!!<br>
+1. apt-get update<br>
+2. apt-get upgrade<br>
+3. git clone https://github.com/TwoReasons/Meta-Scrape.git && cd Meta-Scrape && python root.py<br>
+4. Follow in program prompts<br>
+5. Profit!!<br>
   
   (P.S. Here is a nice site for finding the GPS cords of the image. Just insert them into the dd° mm' ss.s'' fields like this...)<br>
           dd° mm' ss.s''<br>
