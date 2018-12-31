@@ -6,7 +6,7 @@
 <p>
 1. apt-get update<br>
 2. apt-get upgrade<br>
-3. git clone https://github.com/TwoReasons/Meta-Scrape.git && cd Meta-Scrape && python root.py<br>
+3. git clone https://github.com/TwoReasons/Meta-Scrape.git && cd Meta-Scrape && python scrape.py<br>
 4. Follow in program prompts<br>
 5. Profit!!<br>
   
